@@ -1,0 +1,7 @@
+.content-main {
+    width: 100%;
+    height: 78vh;
+    background-color: var(--dark);
+    margin: 0;
+    padding: 0;
+}

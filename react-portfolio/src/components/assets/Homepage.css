@@ -1,0 +1,20 @@
+.homepage-container {
+    height: 100%;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.homepage-title {
+    color: var(--light)
+}
+
+.homepage-message {
+    color: var(--light);
+    width: 80%;
+    font-size: 1.4rem;
+    text-align: center;
+}

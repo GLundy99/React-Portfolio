@@ -9,7 +9,7 @@ export default function Resume() {
             <object>
                 <img
                     className="resume-display"
-                    src={require("../assets/resume")}
+                    // src={require("../assets/resume")}
                     alt="resume"/>
                     Resume
             </object>

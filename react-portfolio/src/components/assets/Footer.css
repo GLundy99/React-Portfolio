@@ -1,0 +1,21 @@
+:root {
+    --darkest: #081c3d;
+    --dark: #177673;
+    --medium: #3be3de;
+    --light: #cffffd;
+}
+
+Footer {
+    width: 100%;
+    height: 7vh;
+    background-color: var(--dark);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-links {
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+}
